@@ -4,7 +4,7 @@ import random
 
 limite = int(input("Introduce el limite: "))
 aleatorio = random.randint(1,limite)
-print aleatorio
+#print aleatorio
 salir = "false"
 
 s = SenseHat()
