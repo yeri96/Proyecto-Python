@@ -18,7 +18,6 @@ nothing = (0,0,0)
 pink = (255,105, 180)
 
 def menor():
-    Y = yellow
     O = nothing
     B = blue
     logo = [
@@ -34,7 +33,6 @@ def menor():
     return logo
 
 def mayor():
-  Y = yellow
   O = nothing
   B = blue
   logo = [
